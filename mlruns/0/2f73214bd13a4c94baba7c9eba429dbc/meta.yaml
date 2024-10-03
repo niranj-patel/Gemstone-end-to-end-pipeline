@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/niranjpatel/Documents/mlproject/MLopsfirstproject/mlruns/0/2f73214bd13a4c94baba7c9eba429dbc/artifacts
+end_time: 1726692185574
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f73214bd13a4c94baba7c9eba429dbc
+run_name: efficient-smelt-267
+run_uuid: 2f73214bd13a4c94baba7c9eba429dbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726692184347
+status: 3
+tags: []
+user_id: niranjpatel

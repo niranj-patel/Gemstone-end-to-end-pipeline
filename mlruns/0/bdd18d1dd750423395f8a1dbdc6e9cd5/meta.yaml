@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/niranjpatel/Documents/mlproject/MLopsfirstproject/mlruns/0/bdd18d1dd750423395f8a1dbdc6e9cd5/artifacts
+end_time: 1726173979571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdd18d1dd750423395f8a1dbdc6e9cd5
+run_name: chill-ant-278
+run_uuid: bdd18d1dd750423395f8a1dbdc6e9cd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726173978627
+status: 3
+tags: []
+user_id: niranjpatel

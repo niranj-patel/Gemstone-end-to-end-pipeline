@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/niranjpatel/Documents/mlproject/MLopsfirstproject/mlruns/0/e85d2e9682ff409ab836ede810094374/artifacts
+end_time: 1726692475960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e85d2e9682ff409ab836ede810094374
+run_name: nosy-pig-834
+run_uuid: e85d2e9682ff409ab836ede810094374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726692474784
+status: 3
+tags: []
+user_id: niranjpatel

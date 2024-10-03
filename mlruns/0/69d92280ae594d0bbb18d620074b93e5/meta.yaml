@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/niranjpatel/Documents/mlproject/MLopsfirstproject/mlruns/0/69d92280ae594d0bbb18d620074b93e5/artifacts
+end_time: 1726690538249
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69d92280ae594d0bbb18d620074b93e5
+run_name: gregarious-lynx-577
+run_uuid: 69d92280ae594d0bbb18d620074b93e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726690536856
+status: 3
+tags: []
+user_id: niranjpatel

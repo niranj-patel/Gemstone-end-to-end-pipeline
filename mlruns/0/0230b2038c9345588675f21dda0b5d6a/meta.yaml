@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/niranjpatel/Documents/mlproject/MLopsfirstproject/mlruns/0/0230b2038c9345588675f21dda0b5d6a/artifacts
+end_time: 1726692414735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0230b2038c9345588675f21dda0b5d6a
+run_name: blushing-skunk-645
+run_uuid: 0230b2038c9345588675f21dda0b5d6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726692413546
+status: 3
+tags: []
+user_id: niranjpatel
