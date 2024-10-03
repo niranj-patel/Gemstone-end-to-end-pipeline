@@ -32,29 +32,24 @@ The MLOps pipeline includes the following stages:
 - **MLflow**: For experiment tracking and model management.
 - **Scikit-learn/TensorFlow**: For model development.
 
-## Setup Instructions
 
-### 1. Clone the Repository
+## Installation
 ```bash
+1. Clone the Repository
 git clone https://github.com/niranj-patel/Gemstone-end-to-end-pipeline.git
 
-### 2. Create Virtual Environment
-```Setup Conda Environment 
+2. Create Virtual Environment
+-Setup Conda Environment 
 conda create -p env python=3.8 -y
 Activate virtual Enviornment: source activate ./env
 
-
-### 2. Install Dependencies
+3. Install Dependencies
 pip install -r requirements.txt
 
-### 3. Initialize DVC
+4. Initialize DVC
 dvc init
 
-### 4. Set Up AWS Credentials
+5. Set Up AWS Credentials
 aws configure
-
-
-
-
 
 
